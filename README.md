@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @gabridele
+# 👋 Hi, I’m Gabriele!
+
+I am a Research Assistant at Lund University, working with Dr. Jacob Vogel. I am currently focused on the processing of the ROSMAP dataset, within a solid and reproducible framework.
+
 - 👀 I’m interested in connectivity of mental disorders
 - 🌱 I’m currently learning: biomarkers of neurodegenerative disorders
 - 📫 How to reach me: gabrieledele@gmail.com
