@@ -1,10 +1,9 @@
 # 👋 Hi, I’m Gabriele!
 
-I am a Research Assistant at Lund University, working with Dr. Jacob Vogel. I am currently focused on the processing of the ROSMAP dataset, within a solid and reproducible framework.
+I am a doctoral student at Karolinska Institutet, Sweden. Currently, I am collaborating with the Turku PET centre, Finland, on collecting data for project investigating the role of dopamine in healthy aging.
+
 <!---
-- 👀 I’m interested in connectivity of mental disorders
-- 🌱 I’m currently learning: biomarkers of neurodegenerative disorders
-- 📫 How to reach me: gabrieledele@gmail.com
+- 📫 How to reach me: gabrieledele@gmail.com / gabriele.de.leonardis@ki.se
 - 😄 Pronouns: he/him
 
 
